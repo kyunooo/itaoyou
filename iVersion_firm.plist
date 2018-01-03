@@ -12,5 +12,9 @@
 		<string>2. 修复绑定银行卡bug；</string>
 		<string>3. 修复其他已知问题。</string>
 	</array>
+	<key>1.0.5</key>
+	<array>
+		<string>1. 版本更新测试</string>
+	</array>
 </dict>
 </plist>
