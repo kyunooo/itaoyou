@@ -4,12 +4,13 @@
 <dict>
 	<key>1.0</key>
 	<array>
-		<string>First release</string>
+		<string>App上线</string>
 	</array>
-	<key>1.0.2</key>
+<!-- 	<key>1.0.4</key>
 	<array>
-		<string>NEW: Added  new snoodlebar feature</string>
-		<string>FIX: Fixed the bugalloo glitch</string>
-	</array>
+		<string>1. 修复支付宝相关问题；</string>
+		<string>2. 修复绑定银行卡bug；</string>
+		<string>3. 修复其他已知问题。</string>
+	</array> -->
 </dict>
 </plist>
